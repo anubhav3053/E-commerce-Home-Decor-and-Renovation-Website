@@ -1,0 +1,400 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 180px;
+    height: 44px;
+    position: absolute;
+    top: 153px;
+    left: 80px;
+
+}
+
+.para-1 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.para-2 {
+    position: absolute;
+    top: 6px;
+    left: 102px;
+    color: rgba(162, 163, 177, 1);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.container-2 {
+    width: 821px;
+    height: 167px;
+    position: absolute;
+    top: 250px;
+    left: 76px;
+}
+
+.para-3 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -1px;
+    text-align: left;
+}
+
+.position-1 {
+    width: 173px;
+    height: 24px;
+    position: absolute;
+    top: 267px;
+    left: 276px;
+}
+
+.para-4 {
+    color: rgba(23, 24, 59, 1);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: left;
+}
+
+.position-2 {
+    width: 72px;
+    height: 32px;
+    position: absolute;
+    top: 263px;
+    left: 735px;
+}
+
+.line1 {
+    background: rgba(209, 209, 216, 1);
+    width: 735px;
+    height: 1px;
+    position: absolute;
+    top: 449px;
+    left: 80px;
+
+}
+
+.container-4 {
+    width: 815px;
+    height: 152px;
+    position: absolute;
+    top: 486px;
+    left: 84px;
+
+}
+
+.para-5 {
+    color: rgba(162, 163, 177, 1);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+
+.position-3 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    top: 307px;
+    left: 276px;
+}
+
+.para-6 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.9px;
+    text-align: left;
+}
+
+.position-4 {
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    top: 307px;
+    left: 328px;
+
+}
+
+.container-3 {
+    width: 160px;
+    height: 51px;
+    border: 1px solid rgba(162, 163, 177, 1);
+    border-radius: 4px;
+    gap: 40px;
+}
+
+.position-8 {
+    position: absolute;
+    top: 355px;
+    left: 276px;
+}
+
+.container-3-img {
+    margin-top: 0px;
+    margin-left: 16px;
+}
+
+.container-3-para {
+    margin-top: 12px;
+}
+
+.container-3-img2 {
+    margin-top: -4px;
+}
+
+.para-7 {
+    color: rgba(225, 75, 75, 1);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+
+.position-9 {
+    position: absolute;
+    top: 371px;
+    left: 464px;
+}
+
+.position-10 {
+    width: 178px;
+    height: 24px;
+    position: absolute;
+    top: 492px;
+    left: 276px;
+}
+
+.position-11 {
+    width: 74px;
+    height: 32px;
+    position: absolute;
+    top: 487px;
+    left: 735px;
+}
+
+.position-12 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    top: 532px;
+    left: 276px;
+}
+
+.position-13 {
+    width: 135px;
+    height: 20px;
+    position: absolute;
+    top: 532px;
+    left: 328px;
+}
+
+.position-14 {
+    position: absolute;
+    top: 580px;
+    left: 276px;
+}
+
+.position-15 {
+    position: absolute;
+    top: 596px;
+    left: 464px;
+}
+
+.container-5 {
+    background: rgba(58, 163, 159, 0.1);
+    width: 660px;
+    height: 64px;
+    /* margin-top: auto; */
+    position: absolute;
+    top: 677px;
+    left: 80px;
+    border: 1px solid rgba(58, 163, 159, 1);
+    border-radius: 4px;
+    /* gap: 12px; */
+
+}
+
+.para-8 {
+    color: rgba(23, 24, 59, 1);
+    position: absolute;
+    top: 20px;
+    left: 48px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.5px;
+    text-align: left;
+}
+
+.container-5-img {
+    position: absolute;
+    top: 23px;
+    left: 20px;
+}
+
+.container-6 {
+    width: 380px;
+    height: 621px;
+    position: absolute;
+    top: 153px;
+    left: 890px;
+    border: 1px solid rgba(209, 209, 216, 1);
+    border-radius: 2px;
+    gap: 32px;
+}
+
+.para-9 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    top: 32px;
+    left: 32px;
+}
+
+.container-6-box-1 {
+    width: 316px;
+    height: 192px;
+    position: absolute;
+    top: 96px;
+    left: 32px;
+}
+
+.container-6-box-2 {
+    width: 316px;
+    height: 32px;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.para-10 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.container-6-box-3 {
+    width: 316px;
+    height: 24px;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.para-11 {
+    color: rgba(58, 163, 159, 1);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.container-6-box-3 {
+    width: 316px;
+    height: 24px;
+    justify-content: space-between;
+}
+
+.line-2 {
+    background: rgba(209, 209, 216, 1);
+    width: 316px;
+    height: 1px;
+    position: absolute;
+    left: 32px;
+
+}
+
+.container-6-box-4 {
+    width: 316px;
+    height: 236px;
+    position: absolute;
+    top: 352px;
+    left: 32px;
+}
+
+.container-6-box-5 {
+    width: 316px;
+    height: 32px;
+    justify-content: space-between;
+}
+
+.position-16 {
+    position: absolute;
+    top: 0px;
+}
+
+.position-17 {
+    position: absolute;
+    top: 54px;
+}
+
+.position-18 {
+    position: absolute;
+    top: 108px;
+}
+
+.Coupon-code {
+    color: rgba(209, 209, 216, 1);
+    width: 314px;
+    height: 56px;
+    padding-left: 12px;
+    border: 1px solid rgba(209, 209, 216, 1);
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.Coupon-code-img {
+    margin-left: -35px;
+}
+
+.container-6-box-6 {
+    position: absolute;
+    top: 184px;
+    background: rgba(58, 163, 159, 1);
+    width: 316px;
+    height: 52px;
+    border-radius: 4px;
+    gap: 10px;
+}
+.container-6-box-6:hover{
+    background-color: rgba(45, 128, 124, 1);
+}
+
+.para-12 {
+    color: rgba(255, 255, 255, 1);
+    width: 172px;
+    height: 20px;
+    margin-top: 16px;
+    margin-left: 72px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+
+}
