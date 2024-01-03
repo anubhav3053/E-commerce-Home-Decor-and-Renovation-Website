@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.shop-container-1 {
+    width: 800px;
+    height: 216px;
+    position: absolute;
+    top: 249px;
+    left: 70px;
+    gap: 24px;
+    /* border: 1px black; */
+}
+
+.shop-para-1 {
+    color: rgb(23, 25, 99);
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.shop-container-2 {
+    width: 800px;
+    height: 168px;
+    position: absolute;
+    top: 48px;
+    border-radius: 2px;
+    border: 1px solid rgba(209, 209, 216, 1);
+}
+
+.ship-container-3 {
+    width: 800px;
+    height: 56px;
+    position: absolute;
+    top: 0px;
+    border-radius: 2px;
+    border-bottom: 1px solid rgba(209, 209, 216, 1)
+}
+
+.ship-position-1 {
+    position: absolute;
+    top: 16px;
+    left: 24px;
+}
+
+.shop-para-2 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+
+}
+
+.ship-position-2 {
+    position: absolute;
+    top: 16px;
+    left: 68px;
+}
+
+.shop-para-3 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.ship-position-3 {
+    position: absolute;
+    top: 15px;
+    left: 124px;
+}
+
+.shop-para-4 {
+    color: rgba(23, 24, 59, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.ship-position-4{
+    position: absolute;
+    top: 15px;
+    left: 679px;
+}
+.ship-container-4 {
+    width: 800px;
+    height: 56px;
+    position: absolute;
+    top: 56px;
+    border-radius: 2px;
+    border-bottom: 1px solid rgba(209, 209, 216, 1)
+}
+.ship-container-5 {
+    width: 800px;
+    height: 56px;
+    position: absolute;
+    top: 112px;
+    border-radius: 2px;
+    border-bottom: 1px solid rgba(209, 209, 216, 1)
+}
+.ship-position-5{
+    position: absolute;
+    top: 15px;
+    left: 148px;
+}
+.shop-para-5{
+color: rgba(162, 163, 177, 1);
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+}
+.ship-position-6{
+    position: absolute;
+    top: 22px;
+    left: 777px;
+}
